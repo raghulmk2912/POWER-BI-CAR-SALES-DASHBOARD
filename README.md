@@ -1,14 +1,14 @@
 🚗 Car Sales Performance Dashboard – Power BI
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 A fully interactive Car Sales Analytics Dashboard built using Power BI to analyze YTD/MTD Sales, Cars Sold, Average Price, YOY Growth, and regional performance using multiple visual insights.
 
 📌 Project Overview
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 This project visualizes car sales data using Power BI.
 It includes KPI tracking, weekly sales trends, company-wise insights, and geographic analysis to help businesses make clear, data-driven decisions.
 
 🎯 Objectives
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Build a dynamic and interactive Car Sales Dashboard.
 
 Track YTD, MTD, and YOY performance for Sales, Cars Sold & Price.
@@ -17,7 +17,8 @@ Analyze sales trends across body style, color, company, and regions.
 
 Improve decision-making with clear, visual business insights.
 
-📂 Project Files Included
+📂 Project Files 
+-------------------------------------------------------------------------------------------------------------------------------------
 File	Description
 Raw Dataset (.xlsx)	Initial car sales data before cleaning
 Cleaned Dataset (.xlsx)	Cleaned & processed dataset
