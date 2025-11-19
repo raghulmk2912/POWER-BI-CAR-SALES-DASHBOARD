@@ -130,6 +130,8 @@ This Power BI dashboard provides a clear view of car sales performance, showing 
 It supports smarter decisions in sales strategy, inventory planning, and pricing.
 
 ⭐ Author
+----------------------------------
 
 M K RAGHUL
+--------------
 Power BI Developer | Data Analyst
