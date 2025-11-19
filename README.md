@@ -17,17 +17,9 @@ Analyze sales trends across body style, color, company, and regions.
 
 Improve decision-making with clear, visual business insights.
 
-📂 Project Files 
--------------------------------------------------------------------------------------------------------------------------------------
-File	Description
-Raw Dataset (.xlsx)	Initial car sales data before cleaning
-Cleaned Dataset (.xlsx)	Cleaned & processed dataset
-Power BI File (.pbix)	Complete dashboard with visuals & DAX
-Project Report (.pdf)	Full project documentation
-Dashboard Screenshots	Visuals used in the dashboard
-README.md	Project description (this file)
-🛠️ Tools & Technologies
 
+🛠️ Tools & Technologies
+----------------------------------------------------------------
 Power BI Desktop
 
 Power Query
@@ -39,7 +31,7 @@ DAX Measures
 GitHub (project hosting)
 
 🧹 Data Cleaning & Preparation
-
+-------------------------------------------------------------
 Performed in Excel & Power Query:
 
 Removed duplicates
@@ -55,6 +47,7 @@ Renamed columns clearly
 Exported cleaned dataset as Cleaned_Car_Sales.xlsx
 
 📊 Dashboard Features & Visuals
+---------------------------------------------------------------------------
 🔹 KPI Cards
 
 YTD Total Sales
@@ -84,6 +77,7 @@ Company-wise Sales Trend (Table / Grid)
 Detailed Sales Information Table
 
 📈 Insights & Key Findings
+-----------------------------------------------------------------------------------------
 
 SUVs generated the highest YTD sales.
 
@@ -100,6 +94,7 @@ Several weeks showed downward dips suggesting seasonal patterns.
 (Customize these insights based on your actual results.)
 
 🧩 Data Model & DAX Used
+--------------------------------------------------------------------------------------------
 
 Key DAX measures used:
 
@@ -116,6 +111,7 @@ CALCULATE(
 (Add more DAX formulas as needed.)
 
 🖼️ Dashboard Screenshots
+--------------------------------------------------------------------
 
 Add your dashboard images here.
 
@@ -128,6 +124,7 @@ Example:
 
 
 📌 Conclusion
+-------------------------------------------------------------------------------------
 
 This Power BI dashboard provides a clear view of car sales performance, showing trends across time, regions, companies, and car attributes.
 It supports smarter decisions in sales strategy, inventory planning, and pricing.
